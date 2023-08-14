@@ -4,7 +4,7 @@
 I am Joram and I love coding, learning new things, and photography.
 
 
-- 🔭 I’m working on my portfolio projects and searching for a new job and collaborations...
+🔭 I’m working on my portfolio projects and searching for a new job and collaborations...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joram-kiarie/) 
