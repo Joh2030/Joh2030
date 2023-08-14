@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i am Joram
 
 # 💫 About Me:
 I love coding, learning new things, and photography.
