@@ -1,7 +1,7 @@
-### Hi there 👋, i am Joram
+### Hi there 👋, 
 
 # 💫 About Me:
-I love coding, learning new things, and photography.
+I am Joram and I love coding, learning new things, and photography.
 
 
 - 🔭 I’m working on my portfolio projects and searching for a new job and collaborations...
