@@ -1,6 +1,6 @@
 # Hi there 👋, 
 
-###💫 
+### 💫 
 I am Joram and I enjoy challenges, learning new things, and photography.
 
 
