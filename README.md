@@ -1,10 +1,7 @@
 # Hi there 👋, 
 
-### 💫 
-I am Joram and I enjoy challenges, learning new things, and photography.
-
-
-🔭 I’m working on my portfolio projects and searching for a new job and collaborations...
+### 💫 About me:
+I am A Fullstack Web Developer based in Berlin, Germany. Currently,  I am working on personal projects using React, Tailwind, Nodejs, and Bootstrap while also searching for new job opportunities and collaborations...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joram-kiarie/) 
